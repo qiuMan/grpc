@@ -1,1 +1,0 @@
-protoc命令: protoc --go_out=plugins=grpc:. hello.proto
